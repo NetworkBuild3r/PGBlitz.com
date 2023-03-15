@@ -1,10 +1,5 @@
 #!/bin/bash
 #
-# Title:      PGBlitz (Reference Title File)
-# Author(s):  Admin9705 - Deiteq
-# URL:        https://pgblitz.com - http://github.pgblitz.com
-# GNU:        General Public License v3.0
-################################################################################
 rm -rf /tmp/backup.build 1>/dev/null 2>&1
 rm -rf /tmp/backup.list 1>/dev/null 2>&1
 rm -rf /tmp/backup.final 1>/dev/null 2>&1

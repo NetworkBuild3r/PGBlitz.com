@@ -1,10 +1,5 @@
 #!/bin/bash
 #
-# Title:      PGBlitz (Reference Title File)
-# Author(s):  Admin9705 - Deiteq
-# URL:        https://pgblitz.com - http://github.pgblitz.com
-# GNU:        General Public License v3.0
-################################################################################
 
 ### NOTE THIS IS JUST A COPY - MAIN ONE SITE IN MAIN REPO - THIS IS JUST FOR INFO
 file1="/dev/nvme0n1"

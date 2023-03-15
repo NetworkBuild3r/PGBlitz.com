@@ -1,10 +1,5 @@
 #!/bin/bash
 #
-# Title:      PGBlitz (Reference Title File)
-# Author(s):  Admin9705 - Deiteq
-# URL:        https://pgblitz.com - http://github.pgblitz.com
-# GNU:        General Public License v3.0
-################################################################################
 pgrole=$(cat /tmp/program_var)
 path=$(cat /var/plexguide/server.hd.path)
 tarlocation=$(cat /var/plexguide/data.location)

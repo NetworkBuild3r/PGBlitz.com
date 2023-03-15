@@ -1,10 +1,5 @@
 #!/bin/bash
 #
-# Title:      PGBlitz (Reference Title File)
-# Author(s):  Admin9705 - Deiteq - Sub7Seven
-# URL:        https://pgblitz.com - http://github.pgblitz.com
-# GNU:        General Public License v3.0
-################################################################################
 docker ps -a --format "{{.Names}}" >/var/plexguide/container.running
 
 sed -i -e "/traefik/d" /var/plexguide/container.running

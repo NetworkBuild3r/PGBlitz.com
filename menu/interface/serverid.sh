@@ -1,10 +1,5 @@
 #!/bin/bash
 #
-# Title:      PGBlitz (Reference Title File)
-# Author(s):  Admin9705 - Deiteq
-# URL:        https://pgblitz.com - http://github.pgblitz.com
-# GNU:        General Public License v3.0
-################################################################################
 touch /var/plexguide/server.id.stored
 start=$(cat /var/plexguide/server.id)
 stored=$(cat /var/plexguide/server.id.stored)
